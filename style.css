@@ -1,0 +1,22 @@
+body {
+    width: 300px;
+    height: 300px;
+    background-color: #EFF7CF;
+    justify-content: center;
+}
+
+.heading{
+    text-align: center;
+    font-size: 30px;
+    color: #732C2C;
+    margin: 10px;
+}
+p {
+    display: flex; /* or inline-flex */
+    margin: auto 10px;
+    font-size: 22px;
+    color: #000000;
+    border-radius: 6px;
+    border: 4px solid #BAD9B5;
+    padding: 10px;
+}
